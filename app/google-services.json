@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578208300386",
+    "project_id": "facilitybooking-d3156",
+    "storage_bucket": "facilitybooking-d3156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578208300386:android:fa41102226c8391c75803b",
+        "android_client_info": {
+          "package_name": "com.example.facilitybooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJyGGggZY7R4fASaLtViL51DN1Vwcypg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
